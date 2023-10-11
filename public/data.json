@@ -1,0 +1,45 @@
+[
+    {
+      "id": 1,
+      "img": "https://i.ibb.co/D4BcJJY/enrolmen-T1.jpg",
+      "price": 1,
+      "name": "Student Enrollment System",
+      "description": "An efficient system for enrolling new students, managing their information, and tracking admissions."
+    },
+    {
+      "id": 2,
+      "img": "https://i.ibb.co/198Vwmq/enrolmen-T2.jpg",
+      "price": 2,
+      "name": "Teacher Attendance Tracker",
+      "description": "A tool to record and monitor teacher attendance, ensuring a smooth teaching schedule."
+    },
+    {
+      "id": 3,
+      "img": "https://i.ibb.co/sPf4hPR/enrolmen-T3.jpg",
+      "price": 3,
+      "name": "School Library Catalog",
+      "description": "A comprehensive catalog of books and resources  school library, aiding students in research and reading."
+    },
+    {
+      "id": 4,
+      "img": "https://i.ibb.co/bFF4jR6/enrolmen-T4.jpg",
+      "price": 3,
+      "name": "Parent-Teacher Communication",
+      "description": "A platform for seamless communication between parents and teachers to discuss student progress."
+    },
+    {
+      "id": 5,
+      "img": "https://i.ibb.co/rbvK37K/enrolmen-T5.jpg",
+      "price": 5,
+      "name": "Class Scheduling System",
+      "description": "A scheduling system that optimizes class timetables, making the best use of available resources."
+    },
+    {
+      "id": 6,
+      "img": "https://i.ibb.co/23vBRjx/enrolmen-T6.jpg",
+      "price": 6,
+      "name": "Student Report Cards",
+      "description": "A tool to generate and distribute student report cards, providing insights into academic performance."
+    }
+  ]
+  
