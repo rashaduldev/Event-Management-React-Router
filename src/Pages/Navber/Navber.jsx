@@ -26,7 +26,7 @@ const Navber = () => {
 </>
     return (
         <div>
-            <div className="navbar bg-base-100 px-10 flex justify-between mb-6">
+            <div className="navbar bg-base-100 px-10 flex justify-between mb-6 mx-auto">
   <div className="">
     <div className="dropdown">
     
